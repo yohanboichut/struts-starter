@@ -1,0 +1,9 @@
+= Struts starter
+
+* Vous avez ici une application starter pour Struts
+* Pour la lancer : mvn jetty:run
+* Tapez cette URL dans le navigateur et ouvrez grand les yeux :
+http://localhost:8080/
+
+*Attention, assurez vous d'avoir une version de JDK 11*
+Celà facilite les choses
